@@ -2,7 +2,7 @@
 A implementation of BVH, which is a tree of boxes where each node encloses all of its descendants. This structure can accelerate some computer graphics technique such as path-tracing.  
   
 [Note]  
-I created a tree structure by using the mid point of the largest axis. Sort the bounding box centroids in the largest axis direction. Then split into a leftand arightside
+I created a tree structure by using the mid point of the largest axis. Sort the bounding box centroids in the largest axis direction. Then split into a left and a rightside.
 
 
 <div align="center">
