@@ -46,6 +46,6 @@ If you want to change, see around line 56 in "./bvh/BVH.py".
 
 ## References
 
-[1] [Scratchapixel 2.0](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume-hierarchy-BVH-part1). "Volume 2: Better, Faster, More (2017), Introduction to Acceleration Structures"
+[1] [Scratchapixel 2.0](https://www.scratchapixel.com/lessons/advanced-rendering/introduction-acceleration-structure/bounding-volume-hierarchy-BVH-part1). "Volume 2: Better, Faster, More (2017), Introduction to Acceleration Structures"  
 [2] [EDAN30 - Photorealistic Computer Graphics](http://fileadmin.cs.lth.se/cs/Education/EDAN30/lectures/S2-bvh.pdf)
 
