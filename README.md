@@ -10,11 +10,11 @@ I created a tree structure by using the mid point of the largest axis. Sort the 
     <p>
     Fig1. An example of a bounding volume hierarchy using rectangles as bounding volumes.
     </p>
-  <img src="./example/bunny/snap/result.gif" width=100%>
+  <img src="./example/bunny/snap/result-ImageMagick.gif" width=100%>
     <p>
     Fig2. Bunny
     </p>
-  <img src="./example/tie-fighter/snap/result.gif" width=100%>
+  <img src="./example/tie-fighter/snap/result-ImageMagick.gif" width=100%>
     <p>
     Fig3. tie-fighter
     </p>  
