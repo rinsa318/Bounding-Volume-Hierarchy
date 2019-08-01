@@ -4,8 +4,8 @@
   @Affiliation: Waseda University
   @Email: rinsa@suou.waseda.jp
   @Date: 2019-06-03 15:17:55
-  @Last Modified by:   tsukasa
-  @Last Modified time: 2019-07-12 20:29:01
+  @Last Modified by:   Tsukasa Nozawa
+  @Last Modified time: 2019-08-01 17:10:32
  ----------------------------------------------------
 
 
@@ -13,7 +13,6 @@
 
 
 import numpy as np
-import torch
 import math
 
 

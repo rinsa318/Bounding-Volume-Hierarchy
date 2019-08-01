@@ -24,7 +24,7 @@ I created a tree structure by using the mid point of the largest axis. Sort the 
 
 ## Environment
 Ubuntu 18.04  
-Python3.6(Anaconda3-5.2.0)
+Python3.6
 
 
 
