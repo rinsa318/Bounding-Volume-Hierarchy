@@ -27,6 +27,13 @@ Ubuntu 18.04
 Python3.6
 
 
+## Dependency
+
++ numpy
++ sys
++ os
++ math
++ collections
 
 
 ## Usage
